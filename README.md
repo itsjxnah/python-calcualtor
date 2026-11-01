@@ -38,10 +38,8 @@ Tkinter is included with many standard Python installations. On some Linux distr
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone [<YOUR_REPOSITORY_URL>](https://github.com/itsjxnah/python-calcualtor.git)
 ```
-
-Replace `<YOUR_REPOSITORY_URL>` with the URL of your Git repository.
 
 ### 2. Navigate to the project directory
 
